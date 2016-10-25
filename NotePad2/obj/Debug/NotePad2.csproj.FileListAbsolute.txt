@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotePad2\NotePad2\bin\Debug\NotePad2.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotePad2\NotePad2\bin\Debug\NotePad2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotePad2\NotePad2\obj\Debug\NotePad2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotePad2\NotePad2\obj\Debug\NotePad2.Main.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotePad2\NotePad2\obj\Debug\NotePad2.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotePad2\NotePad2\obj\Debug\NotePad2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotePad2\NotePad2\obj\Debug\NotePad2.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NotePad2\NotePad2\obj\Debug\NotePad2.pdb
